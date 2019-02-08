@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 12
     },
     {
       "id": 2,
@@ -40,13 +40,31 @@
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 1
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 3
+    },
+    {
+      "name": "Kenny ",
+      "image": "https://res.cloudinary.com/teepublic/image/private/s--yE_S3J6l--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1482566771/production/designs/986189_1.jpg",
+      "likes": 7,
+      "id": 9
+    },
+    {
+      "name": "Kenny ",
+      "image": "https://res.cloudinary.com/teepublic/image/private/s--yE_S3J6l--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1482566771/production/designs/986189_1.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Kenny ",
+      "image": "https://res.cloudinary.com/teepublic/image/private/s--yE_S3J6l--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1482566771/production/designs/986189_1.jpg",
+      "likes": 12,
+      "id": 11
     }
   ]
 }
