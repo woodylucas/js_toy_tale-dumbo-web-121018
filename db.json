@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 12
+      "likes": 16
     },
     {
       "id": 2,
@@ -49,22 +49,28 @@
       "likes": 3
     },
     {
-      "name": "Kenny ",
-      "image": "https://res.cloudinary.com/teepublic/image/private/s--yE_S3J6l--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1482566771/production/designs/986189_1.jpg",
-      "likes": 7,
-      "id": 9
+      "name": "Wheezy",
+      "image": "https://static.giantbomb.com/uploads/scale_small/10/103881/2842746-wheezy.png",
+      "likes": 2,
+      "id": 12
     },
     {
-      "name": "Kenny ",
-      "image": "https://res.cloudinary.com/teepublic/image/private/s--yE_S3J6l--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1482566771/production/designs/986189_1.jpg",
+      "name": "Jessie ",
+      "image": "https://i.pinimg.com/originals/f6/9c/92/f69c92d12279aa128433734ecd828c47.png",
+      "likes": 17,
+      "id": 13
+    },
+    {
+      "name": "Bullseye ",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/618uDWATa1L._SX425_.jpg",
+      "likes": 15,
+      "id": 14
+    },
+    {
+      "name": "Stinky Pete",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/5/57/7D156786-C8C4-405A-9077-4BF9ED7944F2.png/revision/latest?cb=20181126205811",
       "likes": 0,
-      "id": 10
-    },
-    {
-      "name": "Kenny ",
-      "image": "https://res.cloudinary.com/teepublic/image/private/s--yE_S3J6l--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1482566771/production/designs/986189_1.jpg",
-      "likes": 12,
-      "id": 11
+      "id": 15
     }
   ]
 }
